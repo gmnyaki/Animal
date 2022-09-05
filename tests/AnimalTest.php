@@ -1,6 +1,6 @@
 <?php
 
-use src\index;
+use src\animalProject;
 use PHPUnit\Framework\TestCase;
 
 class AnimalTest extends TestCase

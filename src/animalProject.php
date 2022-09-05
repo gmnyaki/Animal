@@ -1,4 +1,5 @@
 <?php
+namespace animals
 // Interface definition
 interface Animals {
   public function makeSound();
